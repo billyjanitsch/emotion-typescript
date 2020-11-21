@@ -1,0 +1,20 @@
+{
+  "name": "emotion-typescript",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc"
+  },
+  "keywords": [],
+  "author": "Billy Janitsch <billy@kensho.com> (https://billyjanitsch.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "typescript": "^4.1.2"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.1.1",
+    "react": "^16.14.0"
+  }
+}
